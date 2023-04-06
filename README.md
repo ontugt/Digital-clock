@@ -1,4 +1,4 @@
 # Digital-clock
  
-live progect  
+live preview 
  https://ontugt.github.io/Digital-clock/
